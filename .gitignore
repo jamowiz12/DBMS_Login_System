@@ -1,0 +1,6 @@
+UserSystem.accdb
+*.laccdb
+__pycache__/
+*.pyc
+.venv/
+venv/
